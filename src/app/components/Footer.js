@@ -1,5 +1,5 @@
 import Image from "next/image";
-import styles from "@/app/Styles/footer.module.css";
+import styles from "@/app/styles/footer.module.css";
 
 export default function Footer() {
   return (
